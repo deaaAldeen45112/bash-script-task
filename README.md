@@ -56,7 +56,7 @@ Both scripts were analyzed for performance and optimized in the following ways:
 Performance details and the impact of these optimizations are described in the accompanying documentation.
 
 ## Documentation
-A full project report is available in `documentation_report.pdf`. This report includes:
+A full project report is available in `linux_report.pdf`. This report includes:
 - Detailed descriptions of the purpose and functionality of each script.
 - Insights from the performance analysis, including benchmarking results.
 - An explanation of optimizations applied and their impact on the script's performance.
